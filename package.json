@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_assignment9",
+  "version": "1.0.0",
+  "description": "this is an todo application",
+  "main": "todoscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
